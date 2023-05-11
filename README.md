@@ -1,6 +1,6 @@
 **IMPORTANT NOTE FOR RAIR LAB MEMBERS**: Do NOT move or rename this repo! It is linked to by a publication.
 
-# Equitable-AI-Development-Paths
+# Non-Profit-Driven Development Paths for Equitable AI/AGI
 
 This repo contains the data used by our paper "Non-Profit-Driven Development Paths for Equitable AI/AGI" accepted for publication at [ICRES 2023](https://clawar.org/icres2023/). The list of projects we used was updated to reflect the state of non-narrow AI/AGI projects in April of 2023 from the dataset provided by the [2020 Survey of Artificial General Intelligence Projects
 for Ethics, Risk, and Policy](https://gcrinstitute.org/papers/055_agi-2020.pdf) from Fitzgerald et al [1]. 
